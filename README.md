@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![skropf's GitHub stats](https://github-readme-stats.vercel.app/api?username=skropf&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
+[![skropf's GitHub stats](https://github-stats-extended.vercel.app/api?username=skropf)](https://github.com/stats-organization/github-stats-extended)
+
